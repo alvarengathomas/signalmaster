@@ -18,7 +18,7 @@
       "ident": "thomasalvarenga",
       "secret": "84a481b2-6f45-11e7-bca9-31812d9ce797",
       "channel": "JoyMeetings",
-      "secure": "1"
+      "secure": "true"
     }
   },
   "stunservers": [
