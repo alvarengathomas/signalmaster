@@ -13,7 +13,7 @@
     "maxClients": 0
   },
   "xirsys": {
-    "gateway": "https://global.xirsys.net",
+    "gateway": "us.xirsys.com",
     "info": {
       "ident": "thomasalvarenga",
       "secret": "84a481b2-6f45-11e7-bca9-31812d9ce797",
