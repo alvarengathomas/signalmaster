@@ -1,9 +1,9 @@
 {
-  "isDev": false,
+  "isDev": true,
   "server": {
     "port": 8888,
     "/* secure */": "/* whether this connects via https */",
-    "secure": true,
+    "secure": false,
     "key": "config/sslcerts/key.pem",
     "cert": "config/sslcerts/cert.pem",
     "password": null
@@ -13,12 +13,12 @@
     "maxClients": 0
   },
   "xirsys": {
-    "gateway": "es.xirsys.com",
+    "gateway": "https://global.xirsys.net",
     "info": {
-      "ident": "",
-      "secret": "",
-      "channel": "",
-      "secure": "true"
+      "ident": "thomasalvarenga",
+      "secret": "84a481b2-6f45-11e7-bca9-31812d9ce797",
+      "channel": "JoyMeetings",
+      "secure": "1"
     }
   },
   "stunservers": [
